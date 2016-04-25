@@ -1,3 +1,8 @@
+nbactions.xml
+nb-configuration.xml
+
+target/
+
 *.class
 
 # Mobile Tools for Java (J2ME)
